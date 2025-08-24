@@ -1,14 +1,30 @@
-WELCOME;1000
-START100;100
-BONUS500;500
-MEGA1000;1000
-PROMO250;250
-NEWBIE50;50
-STARTER;200
-GIFT300;300
-LUCKY777;777
-SUPER1500;1500
-
-# Формат промокодов: НАЗВАНИЕ;КОЛИЧЕСТВО_ТОКЕНОВ
+# Promocode Management System
+# Формат: promocodeNAME;amount
 # Каждый промокод одноразовый
-# Добавляйте новые промокоды в том же формате
+
+promocodeWELCOME;500
+promocodeSTART;1000
+promocodeBONUS;750
+promocodeNEWYEAR;2000
+promocodeEPIC;1500
+promocodeLUCKY;888
+promocodeFREE;300
+promocodeWIN;1200
+promocodeTEST;100
+promocodeVIP;3000
+promocodeGOLD;2500
+promocodeSILVER;1000
+promocodeBRONZE;500
+promocodeFIRST;600
+promocodeTRY;250
+
+# Специальные промокоды
+promocodeMEGA;5000
+promocodeULTRA;7500
+promocodeELITE;10000
+
+# Сезонные промокоды
+promocodeSPRING;800
+promocodeSUMMER;900
+promocodeAUTUMN;700
+promocodeWINTER;1100
