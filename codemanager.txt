@@ -1,49 +1,14 @@
-# Promocode Management System v1.0.1
-# Формат: promocodeNAME;amount
-# Каждый промокод одноразовый - обновленная версия
-
-# Стартовые промокоды
-promocodeWELCOME;750
-promocodeSTART;1200
-promocodeBONUS;950
-promocodeNEWBIE;500
-
-# Праздничные промокоды
-promocodeNEWYEAR2025;3000
-promocodeEPIC;2000
-promocodeLUCKY;1111
-promocodeFREE;400
-promocodeWIN;1500
-
-# VIP промокоды
-promocodeVIP;4000
-promocodeGOLD;3500
-promocodeSILVER;1500
-promocodeBRONZE;800
-promocodePLATINUM;5000
-
-# Специальные события
-promocodeMEGA;7500
-promocodeULTRA;10000
-promocodeELITE;12500
-promocodeLEGEND;15000
-
-# Сезонные промокоды
-promocodeSPRING2025;1000
-promocodeSUMMER2025;1100
-promocodeAUTUMN2025;900
-promocodeWINTER2025;1300
-
-# Игровые достижения
-promocodeFIRST;700
-promocodeTRY;350
-promocodePLAY;600
-promocodeEXPLORE;800
-promocodeBUILD;900
-promocodeMINE;1000
-
-# Редкие промокоды
-promocodeRAR3;2500
-promocodeUNIQUE;3500
-promocodeSPECIAL;4500
-promocodeEXCLUSIVE;6000
+promocodeWELCOME;500
+promocodeSTART;1000
+promocodeBONUS;750
+promocodeNEWYEAR;2000
+promocodeEPIC;1500
+promocodeLUCKY;888
+promocodeFREE;300
+promocodeWIN;1200
+promocodeVIP;3000
+promocodeGOLD;2500
+promocodeSILVER;1000
+promocodeBRONZE;500
+promocodeFIRST;600
+promocodeTEST;100
