@@ -1,6 +1,13 @@
-tokensperruby = 0.25
-playertotransfer = "942335"
+# чет какт чета
+tokensperruby=0.1
+playertotransfer=942335
 
-# Конфигурация для mine-craft toolbox
-# tokensperruby - сколько токенов дается за 1 рубин
-# playertotransfer - имя игрока/бота для перевода рубинов
+# Дополнительные параметры
+max_transfer_limit=10000
+min_ruby_amount=1
+transfer_fee=0.05
+
+# Настройки безопасности
+enable_verification=true
+require_confirmation=true
+log_transfers=true
