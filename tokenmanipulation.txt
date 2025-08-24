@@ -1,13 +1,23 @@
-# чет какт чета
+# Token Manipulation Configuration v1.0.1
+# Файл для настройки системы токенов mine-craft toolbox
+# Обновленный формат с дополнительными параметрами
+
 tokensperruby=0.1
 playertotransfer=942335
 
-# Дополнительные параметры
-max_transfer_limit=10000
+# Дополнительные параметры безопасности
+max_transfer_limit=50000
 min_ruby_amount=1
-transfer_fee=0.05
+transfer_fee=0.02
+daily_limit=100000
 
-# Настройки безопасности
+# Настройки системы
 enable_verification=true
 require_confirmation=true
 log_transfers=true
+auto_save_interval=30
+
+# Временные настройки (секунды)
+request_timeout=10
+retry_attempts=3
+cache_duration=300
