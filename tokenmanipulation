@@ -1,2 +1,6 @@
-tokensperruby=0.25
-playertotransfer=942335
+tokensperruby = 0.25
+playertotransfer = "942335"
+
+# Конфигурация для mine-craft toolbox
+# tokensperruby - сколько токенов дается за 1 рубин
+# playertotransfer - имя игрока/бота для перевода рубинов
